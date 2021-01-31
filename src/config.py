@@ -1,0 +1,1 @@
+MODEL_PATH = './service/model/facenet_weights.h5'
